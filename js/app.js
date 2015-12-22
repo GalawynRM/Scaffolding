@@ -13,7 +13,7 @@
                 })
             .when('/home',
                 {
-                    templateUrl: 'views/view.html',
+                    templateUrl: 'views/home.html',
                     controller: 'homeController',
                     activetab: "home",
                     title: "Home"
@@ -75,7 +75,7 @@
                         });
                 }
             };
-        }]);    
+        }]);
 
 }());
 
