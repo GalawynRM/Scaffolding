@@ -1,0 +1,11 @@
+{
+  "name": "galawyn-scaffolding",
+  "version": "1.0.0",
+  "main": "./index.html",
+  "ignore": [],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-sanitize": "~1.4.8"
+  }
+}
