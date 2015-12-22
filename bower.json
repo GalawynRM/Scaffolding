@@ -1,8 +1,8 @@
 {
   "name": "galawyn-scaffolding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.html",
-  "ignore": [],
+  "ignore": ["bower_components"],
   "dependencies": {
     "angular": "~1.4.8",
     "angular-route": "~1.4.8",
